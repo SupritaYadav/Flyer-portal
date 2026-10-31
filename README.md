@@ -14,7 +14,7 @@ End-to-End Frequent Flyer Portal is a responsive web application that replaces t
 ## 📸 Project Screenshots
 
 ### Desktop Preview
-![Portal Desktop Preview](./public/Desktop-preview.png)
+![Portal Desktop Preview](./public/desktop-preview.png)
 
 ### Mobile Preview
 ![Portal Mobile Preview](./public/Mobile-preview.png)
